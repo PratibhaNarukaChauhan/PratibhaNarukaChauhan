@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Pratibha Chauhan a Java enthusiast and looking for JAVA software engineer role in MNCs
+- 👀 I’m interested in open source project , freelancer projects 
+- 🌱 I’m currently learning the advanced features of Java - Collections , Generics , MultiThreading , NIO , Streams API Modules
+- 💞️ I’m looking to collaborate on java bases open source projects 
+- 📫 How to reach me : - Preferred Mode of contact : Phone +91-9891925936 
+- you can email me at pratibhanaruka8@gmail.com also.
